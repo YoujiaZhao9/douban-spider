@@ -8,15 +8,17 @@
 
 本项目通过爬取豆瓣电影 Top250 数据，构建了一个可搜索、可排序、可分页浏览的电影网站。
 
-👉 已部署上线（可填写你的 Railway 链接）
+👉 在线地址：web-production-46b48.up.railway.app
 
 ---
 
 ## 🖼️ 项目预览
 
-（建议这里放 2~3 张截图）
+![首页](images/home.png)
 
----
+![搜索](images/search.png)
+
+![分页](images/page.png)
 
 ## ✨ 核心功能
 
